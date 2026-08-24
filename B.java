@@ -1,3 +1,5 @@
 class B{
-    int y = 90;
+    void process(){
+        System.out.println("Hello");
+    }
 }
