@@ -1,3 +1,3 @@
 class B{
-    int y =90;
+    int y = 90;
 }
